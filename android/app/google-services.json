@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "55953003844",
+    "project_id": "yhtvnow",
+    "storage_bucket": "yhtvnow.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55953003844:android:11c11e09f878ba1289f311",
+        "android_client_info": {
+          "package_name": ""
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLg2pd16JmwfG0HbMeWd26hf5KOaHP930"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
